@@ -1,12 +1,21 @@
 # Urban Object Extraction Dataset
 
-## Introduction
+## Introduction:
 
-Welcome to the Urban Object Extraction Dataset repository! The automated extraction of urban objects from aerial data has been a crucial research topic in photogrammetry for the past two decades. However, most research papers tend to focus on the extraction of a single object class such as buildings, roads, or trees. Our aim is to provide a state-of-the-art dataset that allows researchers to test and develop their methods and algorithms on a diverse set of urban object classes, sometimes simultaneously.
+Semantic segmentation is a fundamental task in computer vision that aims to assign a specific class label to each pixel in an image. Unlike object detection or classification, which focus on identifying objects or predicting labels for the entire image, semantic segmentation provides a detailed understanding of the image at the pixel level. By segmenting an image into distinct regions corresponding to different object classes or semantic categories, semantic segmentation enables advanced visual understanding and scene analysis.
 
-## Objective
+In semantic segmentation, the goal is to create a pixel-wise prediction map that accurately delineates the boundaries and regions of different objects or semantic concepts within an image. This fine-grained level of analysis allows for precise localization and identification of objects, making it a crucial task in applications such as autonomous driving, image editing, virtual reality, and medical image analysis.
 
-This project is aimed at facilitating the development of algorithms for urban object classification and building reconstruction. Participants can choose to focus on detecting single object classes or multiple object classes at the same time. Extracting multiple object classes simultaneously can be beneficial as it allows algorithms to make use of context information, that is, information contained in the mutual arrangement of objects in complex urban scenes. 
+Achieving accurate and robust semantic segmentation requires the development of sophisticated deep learning models capable of capturing the intricate details and spatial dependencies present in images. By leveraging powerful convolutional neural networks (CNNs) and advanced architectural designs, researchers have made significant progress in semantic segmentation, pushing the boundaries of what computers can perceive and understand in visual data.
+
+However, along with model development, the quality and suitability of the dataset used for training are of utmost importance. Cleaning and preparing the dataset is a critical step to ensure that the model learns from reliable and representative examples. By addressing challenges like noisy annotations, class imbalance, and inconsistent labeling, we can enhance the dataset's quality, leading to improved model performance and generalization.
+
+In this project, our objective is to construct a neural network model for semantic segmentation and train it on a meticulously curated dataset. By focusing on both the model architecture and the dataset preprocessing, we aim to achieve state-of-the-art performance in semantic segmentation while contributing to the broader advancement of computer vision research and applications.
+
+## Objective:
+
+The objective of this project is to develop a neural network model for semantic segmentation and train it on a carefully prepared dataset. In addition to implementing the model, a significant part of the project involves the data preprocessing stage, where we focus on cleaning and preparing the dataset to optimize the model's performance. By meticulously examining and addressing potential issues such as noise, class imbalance, and inconsistent annotations, we aim to create a high-quality dataset that can effectively train the neural network model for accurate and robust semantic segmentation. Through this project, we strive to improve the state-of-the-art in semantic segmentation and contribute to the advancement of computer vision research and applications.
+ 
 
 ## Dataset
 
