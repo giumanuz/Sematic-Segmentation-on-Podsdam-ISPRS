@@ -1,4 +1,5 @@
 
+
 <div align="center">
 <h1 align="center">
 <img src="NN.svg" width="200" />
@@ -17,7 +18,8 @@ Sematic-Segmentation-on-Podsdam-ISPRS
 ---
 ## 📚 Table of Contents
 - [📚 Table of Contents](#-table-of-contents)
-- [📍 Overview](#-overview)
+- [🚀 Introduction](#-introduction)
+- [📍 Objective](#-objective)   
 - [💫 Features](#-features)
 - [📊 Dataset](#-dataset)
 - [🖌 Usage](#-usage)
