@@ -187,6 +187,13 @@ cd Sematic-Segmentation-on-Podsdam-ISPRS
 ```sh
 pip install -r requirements.txt
 ```
+4. [Download the dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx). The dataset is organized into different directories representing various urban object classes. Please refer to the documentation for the structure and description of the dataset.
+
+5. The original images in the dataset are cropped into smaller images. By default, each image is cropped into 16 smaller images. However, you can use the provided code in `crop_image.py` to crop the images into an arbitrary number of smaller images.
+
+6. The `split_images.py` script is used to create the training, testing, and validation datasets. You can set arbitrary proportions for splitting the dataset. By default the dataset is split into 80% training, 10% testing, and 10% validation.
+
+7. Use the data as per your research or project requirements. Please make sure to cite this dataset if you use it in your research or project.
 
 ---
 
