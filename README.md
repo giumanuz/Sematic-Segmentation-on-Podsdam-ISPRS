@@ -6,7 +6,7 @@
 <br>
 Sematic-Segmentation-on-Podsdam-ISPRS
 </h1>
-<h3 align="center">📍 Unleash the power of accurate semantic segmentation with Podsdam-ISPRS on GitHub!</h3>
+<h3 align="center">📍 Unleash the power of accurate semantic segmentation with Potsdam-ISPRS on GitHub!</h3>
 <h3 align="center">⚙️ Developed with the software and tools below:</h3>
 
 <p align="center">
