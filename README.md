@@ -67,7 +67,7 @@ Feature | Description |
 ---
 ##  📊 Dataset
 
-This dataset consists of high-resolution aerial data containing a variety of urban objects. Six categories/classes have been defined:
+This [dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx) consists of high-resolution aerial data containing a variety of urban objects. Six categories/classes have been defined:
 
 - Impervious surfaces (RGB: 255, 255, 255)
 - Building (RGB: 0, 0, 255)
